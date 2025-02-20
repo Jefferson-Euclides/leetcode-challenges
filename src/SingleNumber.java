@@ -21,7 +21,7 @@ public class SingleNumber {
     }
 
     /*
-        SOLUCAO COM XOR
+        SOLUCAO COM XORM
 
     public static int singleNumber(int[] nums) {
         int result = 0;
